@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 My name is Christy! Woohoo French Fries are delicious
-Welcome to Github!
+omg hello I am here! I am editing stuff in my file!
